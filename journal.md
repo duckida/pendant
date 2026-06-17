@@ -30,5 +30,9 @@
 
 <img width="443" height="617" alt="image" src="https://github.com/user-attachments/assets/410e86c4-c8eb-4844-bb28-b6578cf86048" />
 
+11. Added a 2-pin header for a battery
+   
+<img width="558" height="268" alt="Screenshot 2026-06-17 at 9 55 45 PM" src="https://github.com/user-attachments/assets/b3b175b7-d413-4e68-a495-daad7708c272" />
+
 
 
