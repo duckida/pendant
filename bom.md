@@ -7,3 +7,5 @@
 1x 0.96" OLED I2C display (white)
 
 1x LiPo Battery 400mAh 3.7V
+
+2x SK6812 MINI-E LEDs
