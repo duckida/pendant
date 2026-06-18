@@ -34,5 +34,13 @@
    
 <img width="558" height="268" alt="Screenshot 2026-06-17 at 9 55 45 PM" src="https://github.com/user-attachments/assets/b3b175b7-d413-4e68-a495-daad7708c272" />
 
+12. Added LEDs to the schematic (i had to manually specify the pins due to the difference between the E and normal Mini pinouts)
+
+<img width="316" height="494" alt="Screenshot 2026-06-18 at 1 10 50 PM" src="https://github.com/user-attachments/assets/50421909-43de-42f2-8e9a-047928beec5b" />
+
+13. Added the LEDs on the board and routed them!
+   
+<img width="316" height="188" alt="Screenshot 2026-06-18 at 1 11 18 PM" src="https://github.com/user-attachments/assets/8760f715-30f1-4ff6-ac99-bc43afb71047" />
+
 
 
